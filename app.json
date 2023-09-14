@@ -79,7 +79,7 @@
        "value": ""
     },
     "SUPPORT_CHAT": {
-       "description": "Your Telegram support group chat username where your users will go and bother you with shit Example - The_support_chat.",
+       "description": "Your Telegram support group chat username where your users will go and bother you with shit Example - OFFICIALBOT_SUPPORT.",
        "required": true,
        "value": ""
     },
